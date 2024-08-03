@@ -1,0 +1,2 @@
+Step 01...Open Server in terminal   -nodemon index.js
+Step 02...Open frontend in terminal -npm start

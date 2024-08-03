@@ -1,0 +1,1281 @@
+.container3 {
+    overflow-x: hidden;
+}
+
+.topbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pd {
+    font-weight: 500;
+    margin: 0;
+    color: rgb(169, 165, 165);
+}
+
+.md {
+    font-weight: 600;
+    margin: 0;
+}
+
+.navside {
+    display: flex;
+    border-radius: 20px;
+}
+
+
+
+
+
+.bar1com {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.088);
+}
+.bar1comsales{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.088);
+}
+
+.bar1com p {
+    color: rgb(169, 165, 165);
+    font-weight: 500;
+}
+.bar1comsales p {
+    color: rgb(169, 165, 165);
+    font-weight: 500;
+}
+.bar1comsales h5 {
+    font-weight: 600;
+    line-height: 0%;
+}
+.bar1com h5 {
+    font-weight: 600;
+    line-height: 0%;
+}
+
+.bar1com i {
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #e5fcf5;
+    margin: 3px 0px 0px 0px;
+    color: blueviolet;
+}
+
+
+
+
+
+.bar2com1 {
+    
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+}
+
+.tmon {
+    background-color: rgba(128, 128, 128, 0.137);
+    border-radius: 5px;
+}
+
+.tmon p {
+    color: gray;
+}
+
+.bar2com1 h4 {
+    font-weight: 600;
+}
+
+.ts {
+    font-weight: 500;
+}
+
+.ot {
+    font-weight: 600;
+    color: blue;
+}
+
+.bar2com2 {
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+
+}
+
+.bar2com2 h4 {
+    font-weight: 600;
+}
+
+
+
+.bar3com1 {
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+}
+.bar3com1 h3{
+    font-weight: 600;
+}
+.bar3com1 table{
+    font-weight: 600;
+}
+
+.bar3com2 {
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+}
+
+.bar3com2 p {
+    font-weight: 500;
+    color: #9fa2a2;
+}
+
+.bar3com2 h3 {
+    font-weight: 600;
+    margin: 0px 0px 0px 0px;
+}
+
+.bar3com3 {
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+}
+.filesandsystem{
+    background-color: #95bdbd4e;
+    border-radius: 10px;
+}
+
+
+
+.bar4com1 {
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+}
+.bar4com1 h3{
+    font-weight: 600;
+}
+.bar4com1 table{
+    font-weight: 600;
+}
+
+.bar4com2 {  
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+}
+.bar4com2 h4{  
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.tasksfull{
+    display: flex;
+    justify-content: space-between;
+    padding: 0%;
+}
+.taskseach{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.taskseach p{
+    margin-top: 13px;
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bar4com3 {
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+    display: flex;
+    justify-content: center;
+}
+
+.bar5com1 {
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+}
+
+.bsnslogoandtext {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.bsnslogoandtext i {
+    background-color: #a8abab81;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.bsnslogoandtext h3 {
+    font-weight: 500;
+}
+
+.bsnslogoandtext p {
+    color: #656666;
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.bar5com1 h2 {
+    font-weight: 600;
+}
+
+.bar5com1bottom {
+    background: #a19f9f39;
+    border-radius: 10px;
+}
+
+.bar5com1bottom span {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.bar5com1bottom button {
+    background: blueviolet;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+.bar5com2 {
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+}
+
+.teammem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+}
+
+.memdiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #a8abab53;
+    border-radius: 10px;
+}
+
+.memdetails h3 {
+    font-weight: 500;
+    line-height: 0;
+}
+
+.memdetails p {
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.bar5com3 {
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+}
+
+
+
+.bar5com3 h3 {
+    font-weight: 600;
+}
+
+.bar5com3 p {
+    font-weight: 600;
+    color: #949898;
+}
+
+.bar5com3 button {
+    background: blueviolet;
+    color: white;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.bar5com4 {
+    border-radius: 10px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.175);
+}
+
+.starbucks {
+    border-radius: 10px;
+}
+
+
+
+.bar5com4 h3 {
+    font-weight: 600;
+}
+
+.bar5com4 p {
+    font-weight: 600;
+    color: #949898;
+}
+
+
+
+@media (min-width: 370px) {
+    .container3 {
+        padding: 20px 20px 0px 20px;
+        border-radius: 10px;
+    }
+    .pdmd {
+        margin-left: 10px;
+    }
+    .pd {
+        font-size: 10px;
+    }
+    .md {
+        font-size: 13px;
+    }
+    .navside {
+        padding: 0px 5px 0px 5px;
+        height: 35px;
+    }
+    .moondiv {
+        margin: 5px 0px 0px 8px;
+    }
+    .bar1 {
+        margin: 40px 15px 10px 15px;
+    }
+    .bar1comdiv{
+        display: flex;
+        justify-content:space-between;
+        width: 100%;
+    }
+    .bar1com{
+        padding: 10px 0px 10px 10px;
+        margin-bottom: 5px;
+        width: 52%;
+        height: 80px;
+    }
+    
+    .bar1comsales{
+        padding: 10px 10px 0px 20px;
+        margin-bottom: 5px;
+        width: 52%;
+        height: 80px;
+    }
+    .bar1com p{
+        font-size: 10px;
+    }
+    .bar1comsales p{
+        font-size: 10px;
+    }
+    .bar1com h5{
+        font-size: 20px;
+    }
+    .bar1comsales h5{
+        font-size: 20px;
+    }
+
+    .bar2com1{
+        margin-bottom: 10px;
+        padding: 20px;
+    }
+    .tmon{
+        padding: 2px 10px;
+        width: 105px;
+        height: 25px;
+    }
+    .tmon p{
+        font-size: 12px;
+    }
+    .bar2com1 h4{
+        font-size: 20px;
+        margin: 50px 0px 0px 10px;
+    }
+    .ts{
+        font-size: 12px;
+        margin: 0px 0px 0px 10px;
+    }
+    .ot{
+        font-size: 12px;
+    margin: 10px 0px 0px 10px;
+    }
+    .bar2com2{
+        padding: 20px;
+    }
+    .bar2com2 h4{
+        font-size: 15px;
+    }
+    .bar3 {
+        margin-top: 10px;
+    }
+    .bar3com1 {
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .bar3com1 h3{
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .bar3com1 table{
+        font-size: 8px;
+    }
+    .bar3com2 {
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .bar3com2 p {
+        font-size: 10px;
+        margin: 0;
+    }
+    .bar3com2 h3{
+        font-size: 20px;
+    }
+    .bar3com3 {
+        padding: 20px;
+    }
+    .filesandsystem {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+        margin: 20px 0px 0px 0px;
+        padding: 15px 0px;
+        width: 250px;
+    }
+    .bar4 {
+        margin-top: 10px;
+    }
+    .bar4com1{
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .bar4com1 h3{
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .bar4com1 table{
+        font-size: 13px;
+    }
+    .bar4com2{
+        padding: 20px;
+        margin-bottom: 10px;
+
+    }
+    .bar4com3{
+    }
+    .bar5 {
+        margin-top: 10px;
+    }
+    .bar5com1{
+        margin-bottom: 10px;
+    }
+    .bar5com1top {
+        padding: 20px;
+    }
+    .bsnslogoandtext h3 {
+        font-size: 12px;
+    }
+    .bar5com1 h2 {
+        margin-top: 28px;
+        font-size: 15px;
+    }
+    .bar5com1bottom {
+        padding: 20px;
+        height: 50%;
+    }
+    .bar5com2 {
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .bar5com2 h4{
+        font-size: 15px;
+    }
+    .teammem {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .memdiv {
+        margin-top: 10px;
+        padding: 10px 10px 0px 10px;
+    }
+    .memdetails h3 {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .bar5com3 {
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .bar5com3 img {
+        margin: 20px 0px 10px 20px;
+    }
+    .bar5com3 h3 {
+        font-size: 17px;
+        margin: 30px 0px 10px 0px;
+    }
+    .bar5com3 p {
+        font-size: 12px;
+        margin: 0px 0px 10px 0px;
+    }
+    .bar5com3 button {
+        width: 100%;
+        padding: 5px 0px;
+        font-size: 15px;
+        margin: 40px 0px 0px 0px;
+    }
+    .bar5com4 {
+        padding: 20px;
+    }
+    .starbucks {
+        height: 180px;
+        width: 100%;
+    }
+    .starbuckslogo {
+        width: 50px;
+        position: relative;
+        top: -25px;
+        left: 30px;
+    }
+    .bar5com4 h3 {
+        font-size: 18px;
+        margin-left: 30px;
+    }
+    .bar5com4 p {
+        font-size: 12px;
+        margin-left: 30px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container3 {
+        padding: 20px 20px 0px 20px;
+        border-radius: 10px;
+    }
+    .pdmd {
+        margin-left: 10px;
+    }
+    .pd {
+        font-size: 10px;
+    }
+    .md {
+        font-size: 13px;
+    }
+    .navside {
+        padding: 0px 5px 0px 5px;
+        height: 35px;
+    }
+    .moondiv {
+        margin: 5px 0px 0px 8px;
+    }
+    .bar1 {
+        margin: 40px 15px 10px 15px;
+    }
+    .bar1comdiv{
+        display: flex;
+        justify-content:space-between;
+        width: 100%;
+    }
+    .bar1com{
+        padding: 10px 0px 10px 10px;
+        margin-bottom: 5px;
+        width: 51%;
+        height: 80px;
+    }
+    
+    .bar1comsales{
+        padding: 10px 10px 0px 20px;
+        margin-bottom: 5px;
+        width: 51%;
+        height: 80px;
+    }
+    .bar1com p{
+        font-size: 10px;
+    }
+    .bar1comsales p{
+        font-size: 10px;
+    }
+    .bar1com h5{
+        font-size: 20px;
+    }
+    .bar1comsales h5{
+        font-size: 20px;
+    }
+
+    .bar2com1{
+        margin-bottom: 10px;
+        padding: 20px;
+    }
+    .tmon{
+        padding: 2px 10px;
+        width: 105px;
+        height: 25px;
+    }
+    .tmon p{
+        font-size: 12px;
+    }
+    .bar2com1 h4{
+        font-size: 20px;
+        margin: 50px 0px 0px 10px;
+    }
+    .ts{
+        font-size: 12px;
+        margin: 0px 0px 0px 10px;
+    }
+    .ot{
+        font-size: 12px;
+    margin: 10px 0px 0px 10px;
+    }
+    .bar2com2{
+        padding: 20px;
+    }
+    .bar2com2 h4{
+        font-size: 15px;
+    }
+    .bar3 {
+        margin-top: 10px;
+    }
+    .bar3com1 {
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .bar3com1 h3{
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .bar3com1 table{
+        font-size: 8px;
+    }
+    .bar3com2 {
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .bar3com2 p {
+        font-size: 10px;
+        margin: 0;
+    }
+    .bar3com2 h3{
+        font-size: 20px;
+    }
+    .bar3com3 {
+        padding: 20px;
+    }
+    .filesandsystem {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+        margin: 20px 0px 0px 0px;
+        padding: 15px 0px;
+        width: 250px;
+    }
+    .bar4 {
+        margin-top: 10px;
+    }
+    .bar4com1{
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .bar4com1 h3{
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .bar4com1 table{
+        font-size: 13px;
+    }
+    .bar4com2{
+        padding: 20px;
+        margin-bottom: 10px;
+
+    }
+    .bar4com3{
+    }
+    .bar5 {
+        margin-top: 10px;
+    }
+    .bar5com1{
+        margin-bottom: 10px;
+    }
+    .bar5com1top {
+        padding: 20px;
+    }
+    .bsnslogoandtext h3 {
+        font-size: 12px;
+    }
+    .bar5com1 h2 {
+        margin-top: 28px;
+        font-size: 15px;
+    }
+    .bar5com1bottom {
+        padding: 20px;
+        height: 50%;
+    }
+    .bar5com2 {
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .bar5com2 h4{
+        font-size: 15px;
+    }
+    .teammem {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .memdiv {
+        margin-top: 10px;
+        padding: 10px 10px 0px 10px;
+    }
+    .memdetails h3 {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .bar5com3 {
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .bar5com3 img {
+        margin: 20px 0px 10px 20px;
+    }
+    .bar5com3 h3 {
+        font-size: 17px;
+        margin: 30px 0px 10px 0px;
+    }
+    .bar5com3 p {
+        font-size: 12px;
+        margin: 0px 0px 10px 0px;
+    }
+    .bar5com3 button {
+        width: 100%;
+        padding: 5px 0px;
+        font-size: 15px;
+        margin: 40px 0px 0px 0px;
+    }
+    .bar5com4 {
+        padding: 20px;
+    }
+    .starbucks {
+        height: 180px;
+        width: 100%;
+    }
+    .starbuckslogo {
+        width: 50px;
+        position: relative;
+        top: -25px;
+        left: 30px;
+    }
+    .bar5com4 h3 {
+        font-size: 18px;
+        margin-left: 30px;
+    }
+    .bar5com4 p {
+        font-size: 12px;
+        margin-left: 30px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .container3 {
+        padding: 20px 20px 0px 20px;
+        border-radius: 10px;
+    }
+    .pdmd {
+        margin-left: 20px;
+    }
+    .pd {
+        font-size: 10px;
+    }
+    .md {
+        font-size: 20px;
+    }
+    .navside {
+        padding: 0px 5px 0px 5px;
+        height: 35px;
+    }
+    .moondiv {
+        margin: 5px 0px 0px 8px;
+    }
+    .bar1 {
+        margin: 40px 0 10px 0;
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+    }
+    .bar1comdiv{
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+        width: 30%;
+    }
+    .bar1com{
+        width: 50%;
+        padding: 10px 10px;
+        margin-bottom: 0px;
+    }
+    .bar1comsales{
+        width: 50%;
+        padding: 5px 10px 0px 10px;
+        margin-bottom: 0px;
+    }
+    .bar1com p{
+        font-size: 10px;
+    }
+    .bar1comsales p{
+        font-size: 10px;
+    }
+    .bar1com h5{
+        font-size: 15px;
+    }
+    .bar1comsales h5{
+        font-size: 15px;
+    }
+    .bar2 {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .bar2com1{
+        display: flex;
+        justify-content: space-around;
+        width: 48%;
+        padding: 20px;
+        margin-bottom: 0px;
+    }
+    .tmon{
+        padding: 2px 10px;
+        width: 105px;
+        height: 25px;
+    }
+    .tmon p{
+        font-size: 12px;
+    }
+    .bar2com1 h4{
+        font-size: 20px;
+        margin: 50px 0px 0px 10px;
+    }
+    .ts{
+        font-size: 12px;
+        margin: 0px 0px 0px 10px;
+    }
+    .ot{
+        font-size: 12px;
+    margin: 10px 0px 0px 10px;
+    }
+    .bar2com2{
+        width: 48%;
+        padding: 20px;
+    }
+    .bar2com2 h4{
+        font-size: 15px;
+    }
+    .bar3 {
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .bar3com1 {
+        padding: 20px;
+        width: 48%;
+        margin-bottom: 0px;
+    }
+    .bar3com1 h3{
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .bar3com1 table{
+        font-size: 13px;
+    }
+    .bar3com2 {
+        padding: 20px;
+        width: 24%;
+        margin-bottom: 0px;
+    }
+    .bar3com2 p {
+        font-size: 10px;
+        margin: 0;
+    }
+    .bar3com2 h3{
+        font-size: 20px;
+    }
+    .bar3com3 {
+        padding: 20px;
+        width: 24%;
+    }
+    .filesandsystem {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+        margin: 20px 0px 0px 0px;
+        padding: 15px 0px;
+        width: 250px;
+    }
+    .bar4 {
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .bar4com1{
+        padding: 20px;
+        width: 48%;
+        margin-bottom: 0px;
+    }
+    .bar4com1 h3{
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .bar4com1 table{
+        font-size: 13px;
+    }
+    .bar4com2{
+        padding: 20px;
+        width: 24%;
+        margin-bottom: 0px;
+    }
+    .bar4com3{
+        width: 24%;
+        margin-bottom: 0px;
+    }
+    .bar5 {
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .bar5com1{
+        width: 24%;
+    }
+    .bar5com1top {
+        padding: 20px;
+    }
+    .bsnslogoandtext h3 {
+        font-size: 12px;
+    }
+    .bar5com1 h2 {
+        margin-top: 28px;
+        font-size: 15px;
+    }
+    .bar5com1bottom {
+        padding: 20px;
+        height: 51%;
+    }
+    .bar5com2 {
+        padding: 20px;
+        width: 24%;
+    }
+    .bar5com2 h4{
+        font-size: 15px;
+    }
+    .teammem {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .memdiv {
+        margin-top: 10px;
+        padding: 10px 10px 0px 10px;
+    }
+    .memdetails h3 {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .bar5com3 {
+        width: 24%;
+        padding: 20px;
+    }
+    .bar5com3 img {
+        margin: 20px 0px 10px 20px;
+    }
+    .bar5com3 h3 {
+        font-size: 17px;
+        margin: 30px 0px 10px 0px;
+    }
+    .bar5com3 p {
+        font-size: 12px;
+        margin: 0px 0px 10px 0px;
+    }
+    .bar5com3 button {
+        width: 100%;
+        padding: 5px 0px;
+        font-size: 15px;
+        margin: 40px 0px 0px 0px;
+    }
+    .bar5com4 {
+        width: 24%;
+        padding: 20px;
+    }
+    .starbucks {
+        height: 180px;
+        width: 100%;
+    }
+    .starbuckslogo {
+        width: 50px;
+        position: relative;
+        top: -25px;
+        left: 30px;
+    }
+    .bar5com4 h3 {
+        font-size: 18px;
+        margin-left: 30px;
+    }
+    .bar5com4 p {
+        font-size: 12px;
+        margin-left: 30px;
+    }
+}
+
+
+@media (min-width: 1440px) {
+    .container3 {
+        padding: 20px 20px 0px 20px;
+        border-radius: 10px;
+    }
+    .pdmd {
+        margin-left: 20px;
+    }
+    .pd {
+        font-size: 10px;
+    }
+    .md {
+        font-size: 20px;
+    }
+    .navside {
+        padding: 0px 5px 0px 5px;
+        height: 35px;
+    }
+    .moondiv {
+        margin: 5px 0px 0px 8px;
+    }
+    .bar1 {
+        margin: 40px 0 10px 0;
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+    }
+    .bar1comdiv{
+        display: flex;
+        justify-content: space-between;
+        width: 30%;
+    }
+    .bar1com{
+        width: 50%;
+        padding: 10px 10px;
+        margin-bottom: 0px;
+    }
+    .bar1comsales{
+        width: 50%;
+        padding: 15px 10px 0px 10px;
+        margin-bottom: 0px;
+    }
+    .bar1com p{
+        font-size: 10px;
+    }
+    .bar1comsales p{
+        font-size: 10px;
+    }
+    .bar1com h5{
+        font-size: 20px;
+    }
+    .bar1comsales h5{
+        font-size: 20px;
+    }
+    .bar2 {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .bar2com1{
+        display: flex;
+        justify-content: space-around;
+        width: 48%;
+        padding: 20px;
+        margin-bottom: 0px;
+    }
+    .tmon{
+        padding: 2px 10px;
+        width: 105px;
+        height: 25px;
+    }
+    .tmon p{
+        font-size: 12px;
+    }
+    .bar2com1 h4{
+        font-size: 20px;
+        margin: 50px 0px 0px 10px;
+    }
+    .ts{
+        font-size: 12px;
+        margin: 0px 0px 0px 10px;
+    }
+    .ot{
+        font-size: 12px;
+    margin: 10px 0px 0px 10px;
+    }
+    .bar2com2{
+        width: 48%;
+        padding: 20px;
+    }
+    .bar2com2 h4{
+        font-size: 15px;
+    }
+    .bar3 {
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .bar3com1 {
+        padding: 20px;
+        width: 48%;
+        margin-bottom: 0px;
+    }
+    .bar3com1 h3{
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .bar3com1 table{
+        font-size: 13px;
+    }
+    .bar3com2 {
+        padding: 20px;
+        width: 24%;
+        margin-bottom: 0px;
+    }
+    .bar3com2 p {
+        font-size: 10px;
+        margin: 0;
+    }
+    .bar3com2 h3{
+        font-size: 20px;
+    }
+    .bar3com3 {
+        padding: 20px;
+        width: 24%;
+    }
+    .filesandsystem {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+        margin: 20px 0px 0px 0px;
+        padding: 15px 0px;
+        width: 250px;
+    }
+    .bar4 {
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .bar4com1{
+        padding: 20px;
+        width: 48%;
+        margin-bottom: 0px;
+    }
+    .bar4com1 h3{
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .bar4com1 table{
+        font-size: 13px;
+    }
+    .bar4com2{
+        padding: 20px;
+        width: 24%;
+        margin-bottom: 0px;
+    }
+    .bar4com3{
+        width: 24%;
+        margin-bottom: 0px;
+    }
+    .bar5 {
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .bar5com1{
+        width: 24%;
+    }
+    .bar5com1top {
+        padding: 20px;
+    }
+    .bsnslogoandtext h3 {
+        font-size: 12px;
+    }
+    .bar5com1 h2 {
+        margin-top: 28px;
+        font-size: 15px;
+    }
+    .bar5com1bottom {
+        padding: 20px;
+        height: 51%;
+    }
+    .bar5com2 {
+        padding: 20px;
+        width: 24%;
+    }
+    .bar5com2 h4{
+        font-size: 15px;
+    }
+    .teammem {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .memdiv {
+        margin-top: 10px;
+        padding: 10px 10px 0px 10px;
+    }
+    .memdetails h3 {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .bar5com3 {
+        width: 24%;
+        padding: 20px;
+    }
+    .bar5com3 img {
+        margin: 20px 0px 10px 20px;
+    }
+    .bar5com3 h3 {
+        font-size: 17px;
+        margin: 30px 0px 10px 0px;
+    }
+    .bar5com3 p {
+        font-size: 12px;
+        margin: 0px 0px 10px 0px;
+    }
+    .bar5com3 button {
+        width: 100%;
+        padding: 5px 0px;
+        font-size: 15px;
+        margin: 40px 0px 0px 0px;
+    }
+    .bar5com4 {
+        width: 24%;
+        padding: 20px;
+    }
+    .starbucks {
+        height: 180px;
+        width: 100%;
+    }
+    .starbuckslogo {
+        width: 50px;
+        position: relative;
+        top: -25px;
+        left: 30px;
+    }
+    .bar5com4 h3 {
+        font-size: 18px;
+        margin-left: 30px;
+    }
+    .bar5com4 p {
+        font-size: 12px;
+        margin-left: 30px;
+    }
+}

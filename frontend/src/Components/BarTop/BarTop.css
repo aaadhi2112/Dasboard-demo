@@ -1,0 +1,47 @@
+.bartop{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px 0px 15px;
+}
+
+/* .bartoplinks{
+    display: flex;
+    gap: 15px;
+}
+.bartoplinks a{
+    font-size: 20px;
+    color: rgb(150, 147, 147);
+}
+.bartoplinks a:hover{
+    color: blue;
+    transition: all 0.5s;
+} */
+.bartopmenuitems{
+    display: flex;
+    gap: 15px;
+}
+
+.topbarlink {
+    font-weight: 600;
+    text-decoration: none;
+    color: rgb(150, 147, 147);
+    font-size: 20px;
+}
+
+.topbarlink:hover {
+    color: blueviolet;
+}
+
+.topbaractive {
+    color: blueviolet;
+}
+
+.topbaractive .icon {
+    color: blueviolet;
+}
+
+@media (min-width:1024px){
+    .bartop{
+        display: none;
+    }
+}

@@ -1,0 +1,55 @@
+.nav-icon{
+    font-size: 16px;
+    position: relative;
+    margin: 0 5px 0 0;
+    color: rgb(147, 148, 149);
+    margin-top: 5px;
+}
+.nav-icon i{
+    font-size: 15px;
+    
+}
+
+
+.badge-number{
+    position: absolute;
+    inset: -10px -9px auto auto;
+    font-weight: normal;
+    font-size: 10px;
+    padding: 2px 5px;
+    color: white;
+    border-radius: 5px;
+}
+
+.notifications{
+    padding: 20px;
+    inset: 8px -15px auto auto;
+}
+.notifications .notification-item{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    transition: 0.3s;
+    border-radius: 10px;
+
+}
+.notifications .notification-item i{
+   margin: 0 20px 0 10px;
+   font-size: 24px;
+}
+.notifications .notification-item h4{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.notifications .notification-item p{
+    font-size: 13px;
+    margin-bottom: 3px;
+    color: rgb(86, 85, 85);
+}
+
+.dropdown-footer a{
+    font-size: 12px;
+    color: black;
+    margin-left: 30px;
+}
